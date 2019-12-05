@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     #developed
     'blog',
+    'searches',
 ]
 
 MIDDLEWARE = [
